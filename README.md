@@ -21,6 +21,11 @@ Spread across three campuses (Saint-Étienne, Aix-Marseille-Provence, and Lyon-C
 Source: school website.
 
 ✨Discover more here✨: https://www.mines-stetienne.fr/en/about-us
+
+### Chess riddle
+
+<img width="1080" height="1080" alt="crack-the-code-chess-mistakes-puzzle-1" src="https://github.com/user-attachments/assets/957a21f1-cb8f-40b1-b49e-e2ae0b0fd6f7" />
+
 <!--
 **TMat24Git/TMat24Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
