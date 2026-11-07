@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with C language.
 - 💬 Ask me about French language.
-- 📫 How to reach me: by DM on GitHub.
+- 📫 How to reach me: on-site at school.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I held my diploma upside down when I got my picture taken for my last day in my previous university.
 
