@@ -4,7 +4,7 @@ Welcome to my **GitHub profile**. Don't hesitate to *suggest corrections* or way
 
 ## Some information about me
 
-- 🔭 I’m currently working in ~~Dentistry~~ Computer Science.
+- 🔭 I’m currently ~~working in Dentistry~~ studying Computer Science.
 - 🌱 I’m currently learning Bash.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with C language.
