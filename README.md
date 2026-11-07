@@ -6,14 +6,14 @@ Welcome to my **GitHub profile**. Don't hesitate to *suggest corrections* or way
 
 ## Some information about me
 
-- 🔭 I’m currently ~~working in Dentistry~~ studying Computer Science.
-- 🌱 I’m currently learning Bash.
-- 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with C language.
-- 💬 Ask me about French language.
-- 📫 How to reach me: on-site at school, or by email.
-- 😄 Pronouns: she/her.
-- ⚡ Fun fact: I held my diploma upside down when I got my picture taken for my last day in my previous university.
+- 👩🏻‍💻 I’m currently ~~working in Dentistry~~ studying Computer Science.
+- 📚 I’m currently learning Bash.
+- 👫🏻 I’m looking to collaborate on projects.
+- 🙋🏻‍♀️ I’m looking for help with C language.
+- 🇫🇷 Ask me about French language.
+- 📩 How to reach me: on-site at school, or by email.
+- 💁🏻‍♀️ Pronouns: she/her.
+- 👩🏻‍🎓 Fun fact: I held my diploma upside down when I got my picture taken for my last day in my previous university.
 
 ## Some information about my school
 
