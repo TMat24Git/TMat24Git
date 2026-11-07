@@ -1,4 +1,4 @@
-# Hello everyone,
+# print("Hello World")
 
 Welcome to my **GitHub profile**. Don't hesitate to *suggest corrections* or ways to *enhance* my programs!
 
