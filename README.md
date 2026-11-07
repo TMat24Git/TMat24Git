@@ -1,6 +1,6 @@
 # Hello everyone,
 
-Welcome to my GitHub profile. Don't hesitate to suggest corrections or ways to enhance my programs!
+Welcome to my **GitHub profile**. Don't hesitate to *suggest corrections* or ways to *enhance* my programs!
 
 ## Some information about me
 
@@ -26,6 +26,7 @@ Source: school website.
 
 <img width="1080" height="1080" alt="crack-the-code-chess-mistakes-puzzle-1" src="https://github.com/user-attachments/assets/957a21f1-cb8f-40b1-b49e-e2ae0b0fd6f7" />
 
+*Did you guess?*
 <!--
 **TMat24Git/TMat24Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
