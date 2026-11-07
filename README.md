@@ -1,4 +1,6 @@
-# print("Hello World")
+<img width="1677" height="718" alt="Hello World-3" src="https://github.com/user-attachments/assets/d641a541-7a57-4c64-871c-8ac934566cb9" />
+
+# Hello everyone
 
 Welcome to my **GitHub profile**. Don't hesitate to *suggest corrections* or ways to *enhance* my programs!
 
