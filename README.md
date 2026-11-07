@@ -1,6 +1,6 @@
-Hello everyone,
+# Hello everyone,
 
-Welcome to my GitHub profile. Don't hesitate to suggest corrections or ways to enhance my programs!
+## Welcome to my GitHub profile. Don't hesitate to suggest corrections or ways to enhance my programs!
 
 - 🔭 I’m currently working on Computer Science.
 - 🌱 I’m currently learning Bash.
