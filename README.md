@@ -28,7 +28,7 @@ Source: *school website*.
 
 Did you guess? ♔♕♖♗♘♙ <br>
 <details>
-<summary>Answer here</summary>
+<summary>Click here for the answer</summary>
 Qh2#
 </details>
 <!--
