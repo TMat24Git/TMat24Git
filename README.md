@@ -9,7 +9,7 @@
 - 💬 Ask me about French language.
 - 📫 How to reach me: by DM on GitHub.
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I held my diploma upside down when I got shot for my last day in my previous university.
+- ⚡ Fun fact: I held my diploma upside down when I got my picture taken for my last day in my previous university.
 
 <!--
 **TMat24Git/TMat24Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
