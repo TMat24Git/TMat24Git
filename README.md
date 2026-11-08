@@ -2,7 +2,7 @@
 
 # Hello everyone
 
-Welcome to my **GitHub profile**. Don't hesitate to *suggest corrections* or ways to *enhance* my programs!
+Welcome to my **GitHub profile**. Don't hesitate to *suggest corrections* or *ways to enhance* my programs!
 
 ## Some information about me
 
