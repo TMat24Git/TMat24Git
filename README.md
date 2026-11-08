@@ -33,6 +33,15 @@ Did you guess? ♔♕♖♗♘♙ <br>
 <summary>Click here for the answer</summary>
 Qh2#
 </details>
+
+## Life to-dos
+
+| Done | To-do |
+|----------|---------|
+| Visit Copenhagen | Meet new people |
+| Have a hot chocolate with marshmallows | Learn how to draw |
+| Wake up before sunrise to witness it on the mountains | Graduate in engineering |
+
 <!--
 **TMat24Git/TMat24Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
